@@ -31,7 +31,7 @@
 
 # 📖 [ Frontend] <a name="front"></a>
 
-- [REACT APP related with this api project](https://github.com/MayPyone/hello-react-front-end)
+- [REACT APP related with this api project](https://github.com/Chudisoft/hello-react-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -79,7 +79,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd hello-rails-backend
-  git clone https://github.com/MayPyone/hello-rails-backend.git
+  git clone https://github.com/Chudisoft/hello-rails-backend.git
 ```
 
 ### Install
